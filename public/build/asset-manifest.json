@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b0a2414b.css",
+    "main.js": "/static/js/main.6c711dff.js",
+    "static/js/206.f8819006.chunk.js": "/static/js/206.f8819006.chunk.js",
+    "static/media/bg-2.jpg": "/static/media/bg-2.c8eaa874f454e49461c9.jpg",
+    "static/media/bg-1.jpg": "/static/media/bg-1.1f0e4de889213fe7c85d.jpg",
+    "static/media/bg-3.jpg": "/static/media/bg-3.fcd66f965fe43e058fa0.jpg",
+    "static/media/section-3-resume-banner.png": "/static/media/section-3-resume-banner.0b87eddfdc434ae06752.png",
+    "static/media/recommand.png": "/static/media/recommand.b835f2357ffeb73f65ee.png",
+    "static/media/introduce.png": "/static/media/introduce.9ba58b578385d93c0573.png",
+    "static/media/Instagram.webp": "/static/media/Instagram.e905e80e3d57cc2b32c7.webp",
+    "static/media/help.png": "/static/media/help.75cfcf35523ddf1a41bd.png",
+    "static/media/coder-programmer-developer.png": "/static/media/coder-programmer-developer.82475e2041a1cf528d3b.png",
+    "static/media/ide.jpeg": "/static/media/ide.6c4e0c0a6bb3b5396535.jpeg",
+    "static/media/job-seekers.png": "/static/media/job-seekers.62f7a1fe1712457524c3.png",
+    "static/media/human-rewritten-resume-section.png": "/static/media/human-rewritten-resume-section.f0ad5c57309e4c7478a2.png",
+    "static/media/pic_2.png": "/static/media/pic_2.4efa2d9029a4cfa87fea.png",
+    "static/media/pic_1.png": "/static/media/pic_1.b4c182dc32583200f6b3.png",
+    "static/media/pic_3.png": "/static/media/pic_3.b05d4da20fd0b27c614c.png",
+    "static/media/blog-3.png": "/static/media/blog-3.f585c8ebe587e49488f3.png",
+    "static/media/coop.png": "/static/media/coop.c8a0ade038fc8edec1c1.png",
+    "static/media/logdum.png": "/static/media/logdum.7c465943297531acdd60.png",
+    "static/media/icon.jpg": "/static/media/icon.a0a0f20d5b0c24823137.jpg",
+    "static/media/logo_admin.jpg": "/static/media/logo_admin.a0a0f20d5b0c24823137.jpg",
+    "static/media/LinkedIn.png": "/static/media/LinkedIn.72097b5277a499b1902f.png",
+    "static/media/html.jpg": "/static/media/html.d4d4c5e1e7e72b77a9ea.jpg",
+    "static/media/blog-2.png": "/static/media/blog-2.3eff2e195f287fbdf1f2.png",
+    "static/media/blog-4.png": "/static/media/blog-4.8931bf3b54194bfef826.png",
+    "static/media/blog-1.png": "/static/media/blog-1.98aec99170ebcb07304b.png",
+    "static/media/upper-footerimg.svg": "/static/media/upper-footerimg.5ecc333b53c05619db69392b45fae016.svg",
+    "static/media/companies1.png": "/static/media/companies1.fec5dc6a22b60b986df3.png",
+    "static/media/dummy.webp": "/static/media/dummy.94d04315673bbfc46056.webp",
+    "static/media/logo.svg": "/static/media/logo.7bc8fe1ac8e0826ac591b7f195e27357.svg",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.b0a2414b.css",
+    "static/js/main.6c711dff.js"
+  ]
+}
